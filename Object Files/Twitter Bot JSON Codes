@@ -26,3 +26,24 @@
 		"#noun# #second#"]
 
 }
+
+
+
+
+
+{
+	"hey Andy, can I have my very own quote?": "Sure, here you go: #origin#",
+
+"can I have another?": "If you say so... #origin#",
+
+"hello": "Hello, why are you trying to talk to a machine?",
+
+"who are you?": "I am the voice of Andy Warhol.",
+
+"who is Andy Warhol?": "Everybody asks who is Andy... but no one asks HOW is Andy... :(",
+
+"can I see some of your art?": "take a look : https://www.wikiart.org/en/andy-warhol",
+
+"what is pop art?": "You came to the right person. Check this out: http://www.theartstory.org/movement-pop-art.htm",
+
+"who are you?": "I am what I have always wanted to be."}
