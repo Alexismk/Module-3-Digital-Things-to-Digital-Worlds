@@ -1,0 +1,28 @@
+{
+
+	"noun": [
+"Everybody #Aone#","Everybody #Athree#", "Publicity #Aone#","Success #Aone#","Sex #Aone#","Pop art #Aone#","An artist #Aone#","An artist #Athree#","Art #Aone#","Art #Athree#","It #Aone#","It #Athree#","The best thing #Aone#","The best thing #Athree#","They #Atwo#", "As soon as you #Atwo#","Why #Atwo#","You #Atwo#","People #Atwo#"," I #Afour#","I want to be"],
+
+"Aone": [
+		"is"],
+
+"Atwo": [
+		"are","stop","spend","want","always say"],
+
+"Athree":[ "has"],
+
+"Afour": ["am"],
+
+	"second": [
+		"artificial","a social disease","a different idea","the opening","fascinating ","plastic","beautiful","for everyone","deeply artificial","when #Bthree#","more exciting #Btwo#","someone who #Bone#","the biggest nothing","ugly","for everyone","people","a toilet seat"],
+
+"Bone": ["makes you depressed","makes you happy","is smart","produces things that people don’t need to have","knows","understands"],
+
+"Btwo": ["on the screen ","than doing it","than not doing it","than going out","than falling in love"],
+
+"Bthree": ["the checks don’t bounce.","they could be happy.","the people change."],
+
+	"origin": [ 
+		"#noun# #second#"]
+
+}
