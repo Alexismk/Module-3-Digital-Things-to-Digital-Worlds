@@ -1,7 +1,7 @@
 # Suggested Rubric
 
 
-# Suggested Rubric 
+
 
 I will only be adding a few variations to the existing rubric so that it reflects the uniqueness of this module. 
 
