@@ -29,3 +29,10 @@ Coding this portion was a little different than the main code and I was a bit co
 
 Over all, I am quite proud of what I was able to accomplish with no initial experience in coding. The twitter bot @i_am_andybot is set to tweet a newly generated quote every 6 hours AND will respond to specifically worded tweets, allowing for more of a directly interactive experience. More thoughts behind the purpose of this bot and what I was trying to achieve can be found in my Paradata. 
 
+### Other Twitter Bot Coding Tutorials That I Used and/or Suggest:
+
+https://github.com/derekahmedzai/cheapbotsdonequick
+https://github.com/shawngraham/hist3812w18/wiki/How-do-I-build-a-twitterbot%3F
+https://github.com/codekitchensd/2016-03-24-twitterbots 
+
+
